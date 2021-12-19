@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkrsh-shukla
+- 👋 Hi, I’m UTKARSH SHUKLA
 - 👀 I’m interested in LEARNING NEW TECHNOLOGIES
 - 🌱 I’m currently learning FLUTTER
 - 💞️ I’m looking to collaborate on SKILL ENHANCEMENT COURSES AS I AM BEGINNER
