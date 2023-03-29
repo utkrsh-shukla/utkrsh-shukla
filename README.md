@@ -1,7 +1,7 @@
 - 👋 Hi, I’m UTKARSH SHUKLA
 - 👀 I’m interested in LEARNING NEW TECHNOLOGIES
-- 🌱 I’m currently learning FLUTTER
-- 💞️ I’m looking to collaborate on SKILL ENHANCEMENT COURSES AS I AM BEGINNER
+- 🌱 I’m currently learning Standard Software Technologies.
+- 💞️ I’m looking to collaborate on SKILL ENHANCEMENT COURSES 
 - 📫 YOU CAN CONNECT TO ME WITH utkrsh313@gmail.com
 
 <!---
