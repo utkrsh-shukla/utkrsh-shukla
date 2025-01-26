@@ -44,7 +44,7 @@ Predicts campaign success rates using ensemble models (**Logistic Regression**, 
 ---
 
 ## 🏆 Certifications  
-- **Diploma in Data Science (Expected Dec 2024)**  
+- **Diploma in Data Science (Dec 2024)**  
 - **Machine Learning using NumPy (Sep 2024)**  
 - **Academic Mentor Certification (IIT Madras)**  
 
