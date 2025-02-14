@@ -22,6 +22,12 @@ I’m Utkarsh Shukla, a data science enthusiast with a knack for solving real-wo
 ---
 
 ## 🌟 Featured Projects  
+### 📜 [AI-Powered RAG-Based PDF Q&A System](https://github.com/utkrsh-shukla/AI-Powered-RAG-Based-PDF-QA-System-with-Local-LLM)  
+A **Retrieval-Augmented Generation (RAG)** based system for querying PDFs using **local LLMs**.  
+- **Privacy-Focused**: Runs fully offline using local LLMs like DeepSeek.  
+- **Efficient Retrieval**: Uses vector embeddings for context-aware document search.  
+- **Streamlit UI**: User-friendly interface for seamless interaction.  
+
 ### 🎥 [Movies Recommendation System](https://github.com/utkrsh-shukla/movies-recommendation-system)  
 A **content-based filtering** movie recommendation system built using **Streamlit** and **TMDB API**. Features include:  
 - **Cosine Similarity** algorithm for ranking recommendations.  
@@ -56,3 +62,4 @@ Feel free to reach out for collaborations, discussions, or just to say hi:
 📱 Phone: +91-6388807839  
 
 ---
+
